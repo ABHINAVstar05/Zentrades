@@ -78,16 +78,14 @@ async function renderData() {
         const card = document.createElement('div');
         card.classList.add('card');
 
-        const title = document.createElement('h2');
-        title.textContent = "Product sub-category: " + item.subcategory;
-        const body1 = document.createElement('p');
+        const body1 = document.createElement('h2');
         body1.textContent = "Product Title: " + item.title;
-        const body2 = document.createElement('p');
+        const body2 = document.createElement('h2');
         body2.textContent = "Product price: " + item.price;
-        const body3 = document.createElement('p');
+        const body3 = document.createElement('h2');
         body3.textContent = "Product popularity: " + item.popularity;
 
-        card.appendChild(title);
+        
         card.appendChild(body1);
         card.appendChild(body2);
         card.appendChild(body3);
