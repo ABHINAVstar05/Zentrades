@@ -1,6 +1,5 @@
 # Zentrades
 
-!['Task 1: objective 1'](Result images\Task 1\Fetched JSON data and stored in a MySQL DB.png)
+![Fetched JSON data and stored in a MySQL DB](https://github.com/ABHINAVstar05/Zentrades/assets/75786072/0aa62a0d-b812-4796-afd6-d2e4a76f2e4a)
 
-
-!['Task 1: objective 2'](Result images\Task 1\Displaying data to user.png)
+![Displaying data to user](https://github.com/ABHINAVstar05/Zentrades/assets/75786072/3eac23c1-181e-446c-b1cf-feae6922cd09)
